@@ -14,7 +14,7 @@ Understand what may cause a higher delay between:
 
 | File                                                         |    Description                                   |
 | ------------------------------------------------------------ | ----------------------------------------------   |
-| Project proposal.pdf                                         |       Project proposal                           |
+| *[Project proposal.pdf](https://github.com/MigBap/Springboard-Capstone-Project-I/blob/master/Capstone%20Project%201_%20Project%20Proposal.pdf)                                         |       Project proposal                           |
 | Capstone Project I -- 1) Data inspection and Cleaning.ipynb  |       I part) Data inspection and Cleaning: code |
 | Capstone Project I -- 2) Exploratory Data Analysis.ipynb     |       II part) Exploratory Data Analysis: code   |
 | Capstone Project I -- 3) Modeling.ipynb                      |       III part) Modeling: code                   |
