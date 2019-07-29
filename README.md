@@ -10,7 +10,7 @@ Understand what may cause a higher delay between:
 
 <br>
 
-**Method:** We see that there is a tendency to an increase on the fund delay over time, since the time it is posted or disbursed until the time it is funded or disbursed (see the files below for comprehension). To approach this problem, and after adjustments made regarding feature selection and engineering, I treated it as a classification problem, where the loan is either classified as being a loan with a high or a low delay.
+**Method:** We see that there is a tendency to an increase on the fund delay over time, since the time it is posted or disbursed until the time it is funded or disbursed (see the files below for comprehension). To approach this problem, and after adjustments made regarding feature selection and engineering, I treated it as a classification problem, where the loan is either classified as with a "high delay" or "low delay".
 
 ### Files:
 
