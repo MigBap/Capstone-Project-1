@@ -13,7 +13,7 @@ Understand what may cause a higher delay between:
 ### Files:
 
 | File                                                         |    Description                                   |
-| ------------------------------------------------------------ | :----------------------------------------------: |
+| ------------------------------------------------------------ | ----------------------------------------------   |
 | Project proposal.pdf                                         |       Project proposal                           |
 | Capstone Project I -- 1) Data inspection and Cleaning.ipynb  |       I part) Data inspection and Cleaning: code |
 | Capstone Project I -- 2) Exploratory Data Analysis.ipynb     |       II part) Exploratory Data Analysis: code   |
